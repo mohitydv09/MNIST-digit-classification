@@ -13,4 +13,5 @@ Multi Layer Perceptron :
 ![Multi layer perceptron](https://github.com/mohitydv09/MNIST-digit-classification/assets/101336175/ef13efe0-482e-4fd8-923a-c5232a2e9f36)
 
 CNN :
+
 ![CNN](https://github.com/mohitydv09/MNIST-digit-classification/assets/101336175/a19ab38c-ee46-4fd7-8751-1f5715ed5134)
